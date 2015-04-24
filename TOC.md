@@ -1,7 +1,6 @@
-- 设计模式六大原则
-  - [单一职责原则](principle-1.md)
-  - [里氏替换原则](principle-2.md)
-  - [依赖倒置原则](principle-3.md)
-  - [接口隔离原则](principle-4.md)
-  - [迪米特法则](principle-5.md)
-  - [开闭原则](principle-6.md)
+- [单一职责原则](principle-1.md)
+- [里氏替换原则](principle-2.md)
+- [依赖倒置原则](principle-3.md)
+- [接口隔离原则](principle-4.md)
+- [迪米特法则](principle-5.md)
+- [开闭原则](principle-6.md)
